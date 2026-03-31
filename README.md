@@ -1,8 +1,7 @@
-## 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+## 💫 Hi 👋, I'm Vijay Kumar Prajapati
+**A passionate Cyber Security Engineer || MERN STACK Engineer || Admin from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
-
+Email Me 👉 ✉️ **cbbb4325@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/its_vijay_kumar7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_vijay_kumar7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-kumar-334911270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cbbb4325@gmail.com) 
